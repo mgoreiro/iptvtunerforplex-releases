@@ -28,4 +28,4 @@ Sin licencia, cada reproducción entra en modo demo y se corta a los 20 segundos
 
 ## Soporte
 
-Escribe a [mgoreiro@gmail.com](mailto:mgoreiro@gmail.com). Este repositorio solo distribuye los instaladores; no contiene el código fuente.
+Escribe a [soporte@plexiplabs.es](mailto:soporte@plexiplabs.es). Este repositorio solo distribuye los instaladores; no contiene el código fuente.
