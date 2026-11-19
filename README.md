@@ -4,7 +4,7 @@ Instaladores de **IPTVTunerForPlex**, la app de macOS que convierte una lista IP
 
 ## Descargar
 
-- **[Última versión (DMG para macOS)](../../releases/latest)** — `IPTVTunerForPlex-<versión>.dmg`
+- **[Descargar la última versión (DMG para macOS)](../../releases/latest/download/IPTVTunerForPlex.dmg)** — descarga directa. Todas las versiones, con sus notas, en [Releases](../../releases).
 - **[Manual de usuario (PDF)](../../releases/latest/download/IPTVTunerForPlex-Manual.pdf)**
 
 ## Requisitos
